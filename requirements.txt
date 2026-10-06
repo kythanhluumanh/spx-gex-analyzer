@@ -1,0 +1,7 @@
+streamlit
+schwab-py
+plotly
+pandas
+numpy
+scipy
+python-dotenv
